@@ -1,2 +1,2 @@
-# khm-language
-khm-language
+# khm-lang
+khm-lang
