@@ -1,6 +1,9 @@
 # spring-cloud + webflux
 spring-cloud + webflux
 
+### Java SE 11 Developer Certification (1Z0-819)
+https://app.pluralsight.com/paths/certificate/java-se-11-developer-certification-1z0-819
+
 ### Java Microservices with Spring Cloud: Developing Services
 - https://app.pluralsight.com/library/courses/java-microservices-spring-cloud-developing-services/table-of-contents
 
