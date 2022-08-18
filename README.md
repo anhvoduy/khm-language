@@ -22,3 +22,11 @@ https://app.pluralsight.com/paths/certificate/java-se-11-developer-certification
 - this way, in Spring 5 have 2 web modules: spring-web-mvc & spring-web-reactive
 - spring-web-mvc => run on servlet api => run on servlet container, tomcat
 - spring-web-reactive => run on http/reactive stream => run on netty, tomcat, jetty, undertow
+
+### reactive streams:
+- contract: asynchronous, non-blocking, backpressure
+- standard behaviour: only concerned with the stream of data
+- reactor publisher: return mono for list, mono for single object or void
+- Reactive Stream: has 4 core interfaces: Publisher, Subcriber, Subcription, Processor
+- Project Reactor: Flux, Mono, Subscription, Operators
+
