@@ -29,4 +29,7 @@ https://app.pluralsight.com/paths/certificate/java-se-11-developer-certification
 - reactor publisher: return mono for list, mono for single object or void
 - Reactive Stream: has 4 core interfaces: Publisher, Subcriber, Subcription, Processor
 - Project Reactor: Flux, Mono, Subscription, Operators
+- https://s.cafef.vn/ajax/StockChartV3.ashx?symbol=FPT
+- https://s.cafef.vn/ajax/StockChartV3.ashx?symbol=HPG
+- https://s.cafef.vn/ajax/StockChartV3.ashx?symbol=SMC
 
